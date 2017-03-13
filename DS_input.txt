@@ -1,0 +1,44 @@
+    city:
+      Albuquerque
+      Chicago
+      San_Diego
+	LOS_angel
+	LAKERS
+	DALLAS
+	NEW_JC
+	NEW_YORK
+	WANG_CHANG_MING
+	KUOKK
+	MATUSI
+	CC_KILL_BOMB
+	TB_RAY
+TEX_RANGER
+BOSTON_RED_SOX
+BOSTON_CT
+MIA_LED
+    flight:
+      Chicago,         San_Diego      703     325
+      Chicago,         Albuquerque    111     250
+      Albuquerque,     Chicago        178     250
+      CC_KILL_BOMB,    TB_RAY         012      10
+      CC_KILL_BOMB,    BOSTON_RED_SOX 013     999
+      TB_RAY,          TEX_RANGER     014       2
+      BOSTON_RED_SOX,  TEX_RANGER     015       2
+      WANG_CHANG_MING, MIA_LED       016       3
+      MIA_LED,         MATUSI        017       4
+      MATUSI,          WANG_CHANG_MING        018       5
+      WANG_CHANG_MING, KUOKK         019       6
+      WANG_CHANG_MING, DALLAS        020       7
+      DALLAS,          BOSTON_CT     021       8
+    request:
+      Chicago,      Albuquerque
+      Chicago,       San_Diego
+      Albuquerque,  San_Diego
+      Albuquerque,  Paris
+      San_Diego,    Chicago
+      CC_KILL_BOMB, TEX_RANGER
+      WANG_CHANG_MING, BOSTON_CT
+      BOS,	AGON 	
+      AGON, San_Diego
+      San_Diego, AGON
+

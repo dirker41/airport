@@ -1,0 +1,11 @@
+  output½d¦C:
+    Request is to fly from Albuquerque to San_Diego.
+    Flight #178 from Albuquerque to Chicago         Cost: $250
+    Flight #703 from Chicago to San_Diego           Cost: $325
+    Total Cost .........................................  $575
+
+    Request is to fly from Albuquerque to Paris.
+    Sorry. HPAir does not server Paris.
+
+    Request is to fly from San_Diego to Chicago.
+    Sorry. HPAir does not fly from San_Diego to Chicago.

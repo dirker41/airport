@@ -1,0 +1,38 @@
+Request is to fly from Chicago to Albuquerque.
+Flight #111 from Chicago to Albuquerque		Cost: $250
+Total Cost .........................................  $250
+
+Request is to fly from Chicago to San_Diego.
+Flight #703 from Chicago to San_Diego		Cost: $325
+Total Cost .........................................  $325
+
+Request is to fly from Albuquerque to San_Diego.
+Flight #178 from Albuquerque to Chicago		Cost: $250
+Flight #703 from Chicago to San_Diego		Cost: $325
+Total Cost .........................................  $575
+
+Request is to fly from Albuquerque to Paris.
+Sorry. HPAir does not server Paris.
+
+Request is to fly from San_Diego to Chicago.
+Sorry. HPAir does not fly from San_Diego to Chicago
+
+Request is to fly from CC_KILL_BOMB to TEX_RANGER.
+Flight #12 from CC_KILL_BOMB to TB_RAY		Cost: $10
+Flight #14 from TB_RAY to TEX_RANGER		Cost: $2
+Total Cost .........................................  $12
+
+Request is to fly from WANG_CHANG_MING to BOSTON_CT.
+Flight #20 from WANG_CHANG_MING to DALLAS		Cost: $7
+Flight #21 from DALLAS to BOSTON_CT		Cost: $8
+Total Cost .........................................  $15
+
+Request is to fly from BOS to AGON.
+Sorry. HPAir does not server BOS and AGON.
+
+Request is to fly from AGON to San_Diego.
+Sorry. HPAir does not server AGON.
+
+Request is to fly from San_Diego to AGON.
+Sorry. HPAir does not server AGON.
+
